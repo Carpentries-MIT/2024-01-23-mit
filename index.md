@@ -239,7 +239,7 @@ special instructions.
 
 <h2>Registration</h2>
 <p>Registration for MIT affiliates opens on 12:30pm ET Monday, December 11, 2024</p>
-<p>Please register for the workshop at <a href="https://libcal.mit.edu/calendar/events/carpentries20240123"></a>.</p>
+<p>Please register for the workshop at <a href="https://libcal.mit.edu/calendar/events/carpentries20240123">https://libcal.mit.edu/calendar/events/carpentries2023-01-25</a>.</p>
 <p>You are expected to attend the workshop on all four sessions from Jan 23 - 26, 2024. If you can no longer make it to the workshop, please be sure to cancel your registration since we may have a long waiting list. Thank you!  </p>
 </p>
 
