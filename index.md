@@ -237,6 +237,12 @@ special instructions.
 </p>
 {% endif %}
 
+<h2>Registration</h2>
+<p>Registration for MIT affiliates opens on 12:30pm ET Monday, December 11, 2024</p>
+<p>Please register for the workshop at <a href="https://libcal.mit.edu/calendar/events/carpentries20240123"></a.</p>
+<p>You are expected to attend the workshop on all four sessions from Jan 23 - 26, 2024. If you can no longer make it to the workshop, please be sure to cancel your registration since we may have a long waiting list. Thank you!  </p>
+</p>
+
 {% comment %}
 CONTACT EMAIL ADDRESS
 
@@ -266,10 +272,6 @@ Display the contact email address set in the configuration file.
   <strong>Roles:</strong>
   To learn more about the roles at the workshop (who will be doing what),
   refer to <a href="https://carpentries.org/workshop_faq/#what-are-the-roles-of-everyone-participating-in-a-workshop">our Workshop FAQ</a>.
-</p>
-
-<h2>Registration</h2>
-<p>Registration for this workshop is coming soon.</p>
 </p>
 
 {% comment %}
