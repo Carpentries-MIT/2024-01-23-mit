@@ -244,7 +244,7 @@ special instructions.
 <p>You are expected to attend the workshop on all four sessions from Jan 23 - 26, 2024. If you can no longer make it to the workshop, please be sure to cancel your registration since we may have a long waiting list. Thank you!  </p>
 </p>
 
-<p>This workshop is co-sponsored by <b>MIT Libraries</b> and <b>Schwarzman College of Computing</b>. </p>
+<p>This workshop is co-sponsored by <b>MIT Libraries</b> and <b>MIT Schwarzman College of Computing</b>. </p>
 
 {% comment %}
 CONTACT EMAIL ADDRESS
